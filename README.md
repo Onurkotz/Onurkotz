@@ -6,4 +6,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="MarineGEO circle logo" style="height: 17px; width:25px;"/>  : [ounurkouc@gmail.com](Http://gmail.com)        //           [onurkottz@gmail.com](Http://gmail.com)
 
 
-<img src="https://logowik.com/content/uploads/images/instagram-glyph.jpg" alt="MarineGEO circle logo" style="height: 22px; width:30px;"/>: @oukouc
+<img src="https://logowik.com/content/uploads/images/instagram-glyph.jpg" alt="MarineGEO circle logo" style="height: 22px; width:30px;"/>: @ourkoc
