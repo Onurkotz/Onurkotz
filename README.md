@@ -6,4 +6,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="gamil" style="height: 30px; width:43px;"/>  : [ounurkouc@gmail.com](Http://gmail.com)        //           [onurkottz@gmail.com](Http://gmail.com)
 
 
-<img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-paint-brush-colour-1.png" alt="ins" style="height: 50px; width:50px;"/> : @ourkoc
+<img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-png-paint-brush-colour-1.png" alt="ins" style="height: 60px; width:60px;"/> : @ourkoc
