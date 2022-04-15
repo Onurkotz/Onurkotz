@@ -2,7 +2,7 @@
 - I learn Frontend technologies and I am exciting and happy for this.
 - I’m interested in communication, sound engineering and music.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkotz&langs_count=8&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkotz&langs_count=5&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
