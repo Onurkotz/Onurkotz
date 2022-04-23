@@ -8,6 +8,8 @@ I learn Frontend technologies and I am exciting and happy for this. I’m intere
 
 * ✉️  You can contact me at [onurkottz@gmail.com // ounurkouc@gmail.com](mailto:onurkottz@gmail.com // ounurkouc@gmail.com)
 
+<a href="https://github.com/Onurkotz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkotz&hide=html&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ### Skills
 
 <p align="left">
@@ -36,4 +38,4 @@ I learn Frontend technologies and I am exciting and happy for this. I’m intere
 
 <a href="http://www.github.com/Onurkotz"><img src="https://activity-graph.herokuapp.com/graph?username=Onurkotz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Onurkotz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkotz&hide=html&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
