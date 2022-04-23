@@ -1,4 +1,4 @@
-Hi 👋 My name is Onur
+Hi, it's Onur, how are you today?
 =====================
 
 Frontend Web Developer
