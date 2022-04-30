@@ -6,7 +6,7 @@ Frontend Web Developer
 
 I learn Frontend technologies and I am exciting and happy for this. I’m interested in communication, sound engineering and music.
 
-* ✉️  You can contact me at [onurkottz@gmail.com // ounurkouc@gmail.com](mailto:onurkottz@gmail.com // ounurkouc@gmail.com)
+* ✉️  You can contact me at [onurkottz@gmail.com](mailto:onurkottz@gmail.com) or [ounurkouc@gmail.com](mailto:ounurkouc@gmail.com)
 
 <a href="https://github.com/Onurkotz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkotz&hide=html&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
