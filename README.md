@@ -4,7 +4,9 @@ Hi, it's Onur, how are you today?
 Frontend Web Developer - Freelance
 ----------------------
 
+```
 <p> Also a musician :)) </p>
+```
 
 * ✉️  You can contact me at [ounurkouc@gmail.com](mailto:ounurkouc@gmail.com)
 
